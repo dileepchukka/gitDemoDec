@@ -1,2 +1,2 @@
-hello world
+bad world
 let's make some merge conflicts
